@@ -10,7 +10,7 @@ function schedules(request, response){
             {
                 day: 'Seg',
                 datas: [
-                    {id: 2, desc: '', hour: ''}
+                    {id: 2, desc: 'Ensaio', hour: '18:00'}
                 ]
             },
             {
