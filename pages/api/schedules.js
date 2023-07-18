@@ -50,3 +50,5 @@ function schedules(request, response){
         ]
     })
 }
+
+export default schedules;
